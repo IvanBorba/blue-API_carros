@@ -1,0 +1,20 @@
+[
+  {
+    "placa": "ITC4545",
+    "modelo": "Palio",
+    "marca": "Fiat",
+    "ano": 2001
+  },
+  {
+    "placa": "KSC0045",
+    "modelo": "Uno",
+    "marca": "Fiat",
+    "ano": 2001
+  },
+  {
+    "placa": "UUU4578",
+    "modelo": "C3",
+    "marca": "Citroen",
+    "ano": 2001
+  }
+]
